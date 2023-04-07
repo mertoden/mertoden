@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertoden" alt="mertoden" /></a> </p>
 
+- 🔭 **I’m currently working at Ford Otosan**
+
+- 🌱 **I'm Learning Various Technologies and Reinforcing What I Know**
+
 - 📫 How to reach me **oden.mert@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
