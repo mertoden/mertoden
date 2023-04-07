@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">**A passionate developer from Türkiye**</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertoden" alt="mertoden" /></a> </p>
 
