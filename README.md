@@ -24,4 +24,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertoden&" alt="mertoden" /></p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/moden/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+      <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sevimozsoy&theme=dark&show_icons=true&count_private=true)"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moden&layout=compact&langs_count=8&theme=dark"/>
+</p>
 ![snake gif](https://github.com/moden/moden/blob/output/github-contribution-grid-snake.svg)
